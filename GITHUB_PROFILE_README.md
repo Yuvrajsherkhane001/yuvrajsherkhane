@@ -106,7 +106,6 @@ I believe in building AI systems that are not only accurate but also interpretab
 
 ![GitHub Commit Activity](https://activity-graph.herokuapp.com/graph?username=yuvrajsherkhane00`&bg_color=0d1117&color=00d1b2&line=00d1b2&point=ffffff&hide_border=true&area=true&hide_title=true)
 
-
 ---
 
 <details>
@@ -120,8 +119,6 @@ When I'm not building AI models, you might find me:
 - 🎧 Listening to podcasts like "Lex Fridman Podcast" or "Data Skeptic"
 - 🧪 Experimenting with prompt engineering to get better results from LLMs
 - 🤝 Participating in Kaggle competitions or open-source ML projects
-
-*Customize this with your actual hobbies/interests*
 
 </details>
 

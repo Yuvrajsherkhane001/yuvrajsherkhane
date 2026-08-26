@@ -1,4 +1,5 @@
-Hi there, I'm Yuvraj Sherkhane 👋 Aspiring AI & Machine Learning Engineer | Building Intelligent Systems I'm an aspiring AI & ML engineer passionate about leveraging data and algorithms to create intelligent solutions. My journey focuses on mastering machine learning fundamentals, experimenting with deep learning frameworks, and building AI-powered agents that augment human productivity.
+Hi there, I'm Yuvraj Sherkhane 👋
+Aspiring AI & Machine Learning Engineer | Building Intelligent Systems I'm an aspiring AI & ML engineer passionate about leveraging data and algorithms to create intelligent solutions. My journey focuses on mastering machine learning fundamentals, experimenting with deep learning frameworks, and building AI-powered agents that augment human productivity.
 
 🛠️ Core AI/ML Skills & Tools Python NumPy Pandas Matplotlib Seaborn Scikit-learn TensorFlow PyTorch n8n Claude Git GitHub VS Code
 

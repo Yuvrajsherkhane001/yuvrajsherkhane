@@ -78,9 +78,9 @@ I'm an aspiring AI & ML engineer passionate about leveraging data and algorithms
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/yuvraj-sherkhane-87699134b)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajsherkhane001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-61DAFB?logo=react&logoColor=white)](https://your-portfolio-website.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/yuvraj-sherkhane-87699134b) - www.linkedin.com/in/yuvraj-sherkhane-87699134b
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajsherkhane001@gmail.com) - yuvrajsherkhane001@gmail.com
+[![Portfolio](https://img.shields.io/badge/-Portfolio-61DAFB?logo=react&logoColor=white)](https://your-portfolio-website.com) - yrt to be updated.
 
 ---
 
